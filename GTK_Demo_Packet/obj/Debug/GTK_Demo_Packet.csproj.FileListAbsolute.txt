@@ -1,0 +1,6 @@
+/Users/summerflower/Projects/GTK_Demo_Packet/GTK_Demo_Packet/bin/Debug/GTK_Demo_Packet.dll
+/Users/summerflower/Projects/GTK_Demo_Packet/GTK_Demo_Packet/bin/Debug/GTK_Demo_Packet.pdb
+/Users/summerflower/Projects/GTK_Demo_Packet/GTK_Demo_Packet/obj/Debug/GTK_Demo_Packet.csprojAssemblyReference.cache
+/Users/summerflower/Projects/GTK_Demo_Packet/GTK_Demo_Packet/obj/Debug/GTK_Demo_Packet.csproj.CoreCompileInputs.cache
+/Users/summerflower/Projects/GTK_Demo_Packet/GTK_Demo_Packet/obj/Debug/GTK_Demo_Packet.dll
+/Users/summerflower/Projects/GTK_Demo_Packet/GTK_Demo_Packet/obj/Debug/GTK_Demo_Packet.pdb

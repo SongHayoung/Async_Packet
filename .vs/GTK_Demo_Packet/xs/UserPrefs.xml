@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GTK_Demo_Packet/LoginResult.cs">
+    <Files>
+      <File FileName="GTK_Demo_Packet/Login.cs" Line="9" Column="19" />
+      <File FileName="GTK_Demo_Packet/LoginResult.cs" Line="9" Column="19" />
+      <File FileName="GTK_Demo_Packet/MemberRegister.cs" />
+      <File FileName="GTK_Demo_Packet/MemberRegisterResult.cs" Line="10" Column="47" />
+      <File FileName="GTK_Demo_Packet/Packet.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GTK_Demo_Packet" expanded="True">
+            <Node name="GTK_Demo_Packet" expanded="True">
+              <Node name="LoginResult.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

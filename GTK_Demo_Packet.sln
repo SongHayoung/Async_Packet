@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTK_Demo_Packet", "GTK_Demo_Packet\GTK_Demo_Packet.csproj", "{FDF0FF5D-1BA0-4D49-9E5C-FE7C824372E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF0FF5D-1BA0-4D49-9E5C-FE7C824372E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF0FF5D-1BA0-4D49-9E5C-FE7C824372E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF0FF5D-1BA0-4D49-9E5C-FE7C824372E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF0FF5D-1BA0-4D49-9E5C-FE7C824372E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
