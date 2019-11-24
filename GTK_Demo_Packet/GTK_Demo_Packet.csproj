@@ -36,6 +36,7 @@
     <Compile Include="LoginResult.cs" />
     <Compile Include="MemberRegister.cs" />
     <Compile Include="MemberRegisterResult.cs" />
+    <Compile Include="KeepAlive.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

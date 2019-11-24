@@ -7,9 +7,12 @@ using System.Threading.Tasks;
 namespace GTK_Demo_Packet
 {
     [Serializable]
-    public class MemberRegisterResult : Packet
+    public class KeepAlive : Packet
     {
+        public string id_str { get; set; }
+        public string ip_str { get; set; }
+        public string port { get; set; }
         public bool result { get; set; }
-		public int error_code { get; set;}
     }
 }
+

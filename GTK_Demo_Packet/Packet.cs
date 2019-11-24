@@ -13,7 +13,8 @@ namespace GTK_Demo_Packet
         Login = 0,
         Login_RESULT,
         Member_REGISTER,
-        Member_REGISTER_RESULT
+        Member_REGISTER_RESULT,
+        User_ALIVE
     }
 
     [Serializable]
