@@ -11,5 +11,10 @@ namespace GTK_Demo_Packet
     {
         public string id_str { get; set; }
         public string pw_str { get; set; }
+
+		public MemberRegister()
+		{
+			this.packet_Type = PacketType.Member_REGISTER;
+		}
     }
 }

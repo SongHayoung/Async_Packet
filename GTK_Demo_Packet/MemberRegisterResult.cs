@@ -10,6 +10,11 @@ namespace GTK_Demo_Packet
     public class MemberRegisterResult : Packet
     {
         public bool result { get; set; }
-		public int error_code { get; set;}
+		public string msg { get; set;}
+
+		public MemberRegisterResult()
+		{
+			this.packet_Type = PacketType.Member_REGISTER;
+		}
     }
 }

@@ -10,5 +10,11 @@ namespace GTK_Demo_Packet
     public class LoginResult : Packet
     {
         public bool result { get; set; }
+		public string msg { get; set; }
+
+		public LoginResult()
+		{
+			this.packet_Type = PacketType.Login_RESULT;
+		}
     }
 }

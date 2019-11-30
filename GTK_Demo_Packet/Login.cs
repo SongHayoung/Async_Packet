@@ -13,5 +13,10 @@ namespace GTK_Demo_Packet
         public string pw_str { get; set; }
         public string ip_str { get; set; }
         public string port_str { get; set; }
+
+		public Login()
+		{
+			this.packet_Type = PacketType.Login;
+		}
     }
 }
