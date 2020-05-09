@@ -15,7 +15,8 @@ namespace GTK_Demo_Packet
 		Login_RESULT,
 		Member_REGISTER,
 		Member_REGISTER_RESULT,
-        Heart_Beat
+        Heart_Beat,
+        Close
 	}
 
 	[Serializable]

@@ -1,13 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="GTK_Demo_Packet/Packet.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GTK_Demo_Packet/HeartBeat.cs">
     <Files>
-      <File FileName="GTK_Demo_Packet/Login.cs" Line="18" Column="4" />
+      <File FileName="GTK_Demo_Packet/Login.cs" Line="22" Column="2" />
       <File FileName="GTK_Demo_Packet/LoginResult.cs" />
       <File FileName="GTK_Demo_Packet/MemberRegister.cs" />
-      <File FileName="GTK_Demo_Packet/MemberRegisterResult.cs" />
+      <File FileName="GTK_Demo_Packet/MemberRegisterResult.cs" Line="1" Column="1" />
       <File FileName="GTK_Demo_Packet/Properties/AssemblyInfo.cs" />
-      <File FileName="GTK_Demo_Packet/Packet.cs" Line="1" Column="1" />
-      <File FileName="GTK_Demo_Packet/HeartBeat.cs" Line="14" Column="27" />
+      <File FileName="GTK_Demo_Packet/Packet.cs" />
+      <File FileName="GTK_Demo_Packet/HeartBeat.cs" Line="9" Column="5" />
+      <File FileName="GTK_Demo_Packet/ClosePacket.cs" Line="6" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +16,7 @@
           <Node name="GTK_Demo_Packet" expanded="True">
             <Node name="GTK_Demo_Packet" expanded="True">
               <Node name="Properties" expanded="True" />
-              <Node name="MemberRegisterResult.cs" selected="True" />
+              <Node name="HeartBeat.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -37,6 +37,7 @@
     <Compile Include="MemberRegister.cs" />
     <Compile Include="MemberRegisterResult.cs" />
     <Compile Include="HeartBeat.cs" />
+    <Compile Include="ClosePacket.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
